@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of libminer is to …
+The goal of libminer is to count how many packages are in the User and
+Program Files library.
 
 ## Installation
 
