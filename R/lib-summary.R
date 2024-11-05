@@ -1,4 +1,4 @@
-#' Provide number of R pacakges by Library
+#' Provide number of R packages by Library
 #'
 #' @return  a data.frame of the number of packages in Program Files and Users library
 #' @export
