@@ -2,7 +2,7 @@
 % Please edit documentation in R/lib-summary.R
 \name{lib_summary}
 \alias{lib_summary}
-\title{Provide number of R pacakges by Library}
+\title{Provide number of R packages by Library}
 \usage{
 lib_summary()
 }
@@ -10,7 +10,7 @@ lib_summary()
 a data.frame of the number of packages in Program Files and Users library
 }
 \description{
-Provide number of R pacakges by Library
+Provide number of R packages by Library
 }
 \examples{
 lib_summary()
